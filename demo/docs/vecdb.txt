@@ -1,0 +1,12 @@
+Vector Databases
+A vector database (also called a vector store or vector search engine) is a specialized database that stores vectors—fixed-length lists of numbers representing data in high-dimensional space. These vectors often represent words, documents, images, audio, or other types of content, with each dimension capturing a specific feature. The core idea is that similar data items have vectors that are close together, making it ideal for similarity and semantic search.
+
+To enable fast retrieval, vector databases typically use approximate nearest neighbor (ANN) algorithms. These allow a query vector to quickly find the most relevant or similar stored vectors. Common ANN techniques include Hierarchical Navigable Small World (HNSW) graphs, Locality-Sensitive Hashing (LSH), Product Quantization, and Inverted Files.
+
+Vectors are created through machine learning, using methods like feature extraction, word embeddings, or deep neural networks. This transforms raw data into a meaningful numeric form, preserving semantic or visual similarity in the vector space.
+
+Vector databases power a wide range of applications: semantic search, multi-modal search, recommendation engines, object detection, and even large language models (LLMs).
+
+One key use case is retrieval-augmented generation (RAG). In RAG, documents are embedded into vectors and stored in a vector database. When a user sends a query, the query is vectorized, similar documents are retrieved, and these are added to the LLM’s context window to generate more accurate and relevant responses. This technique greatly improves the domain specificity and factual grounding of LLM outputs.
+
+As data continues to grow in complexity and volume, vector databases are becoming critical infrastructure for enabling intelligent, responsive AI applications that go beyond traditional keyword search.

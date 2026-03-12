@@ -1,0 +1,2 @@
+ALTER USER 'root'@'localhost' DENTIFIED BY 'jyotsana@2005';
+FLUSH PRIVILEGES;
