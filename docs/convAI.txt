@@ -1,0 +1,18 @@
+Conversational artificial intelligence (AI) refers to technologies, such as chatbots or virtual agents, that users can talk to. They use large volumes of data, machine learning and natural language processing to help imitate human interactions, recognizing speech and text inputs and translating their meanings across various languages.
+
+Conversational AI combines natural language processing (NLP) with machine learning. These NLP processes flow into a constant feedback loop with machine learning processes to continuously improve the AI algorithms.
+
+Components of conversational AI
+Conversational AI has principal components that allow it to process, understand and generate response in a natural way.
+
+Machine Learning (ML) is a sub-field of artificial intelligence, made up of a set of algorithms, features, and data sets that continuously improve themselves with experience. As the input grows, the AI platform machine gets better at recognizing patterns and uses it to make predictions.
+
+Natural language processing is the current method of analyzing language with the help of machine learning used in conversational AI. In the future, deep learning will advance the natural language processing capabilities of conversational AI even further.
+
+Benefits of conversational AI technologies
+- Providing conversational AI to handle various customer interactions creates continuity within the customer experience and allows valuable human resources to be available for more complex queries
+- Since conversational AI can be accessed more readily than human workforces customers can engage more quickly and frequently with brands.
+- Conversational AI is also very scalable as adding infrastructure to support conversational AI is cheaper and faster than the hiring ad on-boarding process for new employees.
+
+Challenges of Conversational AI technologies
+- Language input can be a problem with conversational AI whether the input is text or voice as it cannot recognize emotions, tone, sarcasm. Thus, making it difficult for conversational AI to interpret the intended user meaning and respond appropriately. 

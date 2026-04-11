@@ -1,0 +1,9 @@
+A chatbot is software designed to hold conversations with users through text or speech. Early chatbots were simple programs like ELIZA (1966), which mimicked conversation by matching keywords in user input to pre-written responses. Despite creating an illusion of intelligence, such systems lacked genuine understanding and often frustrated users with repetitive, limited replies. Over the decades, other notable chatbots emerged, including PARRY (1972), Racter (1984), ALICE (1995) and Jabberwacky (1997). Many competed in Turing-test-inspired competitions like the Loebner Prize, aiming to appear convincingly human.
+
+Modern chatbots have surged in popularity amid the AI boom of the 2020s, driven by advances in large language models (LLMs) such as GPT-4 and Gemini. These chatbots use deep learning and the transformer architecture, generating responses word by word based on massive datasets of human language. Unlike older rule-based systems, they can engage in dynamic, free-flowing conversations, making them far more versatile. However, they can also produce hallucinations—plausible-sounding but incorrect or fabricated information—which raises concerns about misinformation.
+
+A major application for chatbots has long been customer service, acting as virtual assistants to handle inquiries and support tasks. Yet their use now extends into content creation, education, entertainment, and more.
+
+Despite impressive capabilities, generative AI chatbots consume significant energy and resources, contributing to environmental impacts like increased greenhouse gas emissions and water use for data center cooling. For example, a single question to ChatGPT in 2023 required roughly ten times more energy than a Google search.
+
+As AI chatbots continue to evolve, they promise richer interactions but also pose new challenges around accuracy, ethics, and sustainability, sparking both excitement and caution in the tech world.

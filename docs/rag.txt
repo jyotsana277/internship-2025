@@ -1,0 +1,14 @@
+Retrieval-Augmented Generation (RAG) 
+Retrieval-Augmented Generation is a method that boosts large language models (LLMs) by letting them fetch external information before generating a response. Instead of relying only on pre-trained data, RAG-enhanced LLMs retrieve relevant documents from a specified source—like company data or trusted sites—so their responses are more accurate, current, and domain-specific.
+
+This approach reduces hallucinations, where AI makes up false facts, and minimizes the need for expensive retraining. It also adds transparency by including sources users can verify.
+
+RAG works in four stages:
+
+- Indexing: Converts data into vector embeddings and stores them in a vector database.
+- Retrieval: Finds relevant documents based on the user query.
+- Augmentation: Adds the retrieved content into the model’s prompt (a technique called prompt stuffing) to guide its answer.
+- Generation: The LLM creates a response using both the original query and the retrieved information.
+
+While RAG improves performance, it’s not foolproof. LLMs can still misinterpret data even if it’s accurate. Still, it’s a major step toward more grounded, useful AI.
+

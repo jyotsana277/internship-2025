@@ -1,0 +1,15 @@
+Deep Learning
+Deep learning uses multilayered neural networks to perform tasks like classification, regression, and representation learning. Inspired by biological brains, deep networks stack artificial neurons in layers—ranging from a few to thousands—and train them to process data. Training can be supervised, semi-supervised, or unsupervised.
+Common architectures include convolutional neural networks (CNNs) for vision, recurrent neural networks (RNNs) and long short-term memory (LSTM) for sequences, transformers for language, and generative adversarial networks (GANs) for generating data. These models have outperformed humans in fields such as image recognition, game playing, and natural language processing.
+
+Artificial Neural Networks
+Artificial neural networks (ANNs) learn to recognize patterns by adjusting weights on connections between neurons. Neurons process signals and pass them to other layers, gradually refining outputs. Though inspired by the brain, modern networks differ greatly from biological processes, using techniques like backpropagation for learning.
+Alternate neural network types, like cerebellar model articulation controllers (CMAC), offer simpler, more convergent training but are less commonly used in deep learning applications.
+
+
+Deep Neural Networks
+Deep neural networks (DNNs) are ANNs with many hidden layers. Extra depth allows them to model complex, non-linear relationships by composing features across layers. While powerful, DNNs risk overfitting—memorizing training data rather than generalizing. Regularization methods like dropout, weight decay, and data augmentation help address this.
+Training DNNs requires careful tuning of hyperparameters such as learning rates, layer sizes, and initial weights. Large datasets and specialized hardware (like GPUs) are often needed for practical training times.
+While feedforward DNNs pass data in one direction, RNNs and LSTMs allow information to loop, making them effective for tasks involving sequences. CNNs dominate in computer vision and also support speech recognition.
+
+
